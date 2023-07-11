@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "npm revision",
+  "main": "npm.js",
+  "scripts": {
+    "dev": "nodemon streams.js"
+  },
+  "author": "james\\",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
